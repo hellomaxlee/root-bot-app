@@ -1,2 +1,3 @@
-# root-bot-app
+## Root Bot
 Custom GPT for clarifying rules and strategy of the popular, but highly complex board game Root
+
